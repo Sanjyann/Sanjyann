@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js & Blender**
+- 🌱 I’m currently learning **React js & UI/UX**
 
 - 📫 How to reach me **sanjyannn@gmail.com**
 
